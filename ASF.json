@@ -1,0 +1,7 @@
+{
+  "IPC": {
+    "Enabled": true,
+    "IPAddress": "0.0.0.0",
+    "Port": 1242
+  }
+}
